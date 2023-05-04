@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: Craftopia Studios
-featuredImage: https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/
+featuredImage: https://ucarecdn.com/070dfa85-0b00-4eec-9fa0-27893438cf9d/
 subtitle: " Welcome to the ultimate Gatsby and Netlify starter project...."
 meta:
   description: This is a meta description.
