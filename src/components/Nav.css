@@ -201,10 +201,5 @@
   from {
     opacity: 0;
     
-   } 
-    .Nav--Links > .NavLink:nth-child(2) {
-  display: none;
-}
-    
   }
 }
